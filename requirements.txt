@@ -1,0 +1,5 @@
+langchain
+sentence-transformers
+qdrant-client
+openai
+rank_bm25
